@@ -1,2 +1,2 @@
 # lingua
-A video calling app. PS: Yeah, Nit has a misleading name
+A video calling app. PS: Yeah, it has a misleading name
